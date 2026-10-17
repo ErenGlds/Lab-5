@@ -1,4 +1,4 @@
-import Product from "./Product.jsx";
+import Product from "./product.jsx";
 
 const products = [
   { id: 1, title: "Laptop", price: 1200 },

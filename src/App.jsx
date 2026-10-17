@@ -1,5 +1,5 @@
 import { useState } from "react";
-import ProductList from "./components/ProductList.jsx";
+import ProductList from "./components/productList.jsx";
 
 function App() {
   const [showProducts, setShowProducts] = useState(false);
